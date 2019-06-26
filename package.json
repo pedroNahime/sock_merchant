@@ -1,0 +1,13 @@
+{
+  "name": "testes_m2",
+  "version": "1.0.0",
+  "description": "Verificação de teste unitario",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
